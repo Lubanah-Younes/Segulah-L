@@ -1,0 +1,16 @@
+hit,identity,length,evalue,query
+"Klebsiella pneumoniae SHV-27, complete sequence",100.0,861,0.0,SHV-27_GCF_055824605.1
+Klebsiella pneumoniae plasmid pKPN3 SHV-27-like gene,99.9,861,0.0,SHV-27_GCF_055824605.1
+Klebsiella variicola SHV-27 beta-lactamase gene,98.5,861,1e-150,SHV-27_GCF_055824605.1
+Escherichia coli SHV-27 variant,97.2,861,1e-140,SHV-27_GCF_055824605.1
+Uncultured bacterium SHV family gene,95.1,858,1e-130,SHV-27_GCF_055824605.1
+"Klebsiella pneumoniae SHV-27, complete sequence",100.0,861,0.0,SHV-27_GCF_055824715.1
+Klebsiella pneumoniae plasmid pKPN3 SHV-27-like gene,99.9,861,0.0,SHV-27_GCF_055824715.1
+Klebsiella variicola SHV-27 beta-lactamase gene,98.5,861,1e-150,SHV-27_GCF_055824715.1
+Escherichia coli SHV-27 variant,97.2,861,1e-140,SHV-27_GCF_055824715.1
+Uncultured bacterium SHV family gene,95.1,858,1e-130,SHV-27_GCF_055824715.1
+"Klebsiella pneumoniae SHV-27, complete sequence",100.0,861,0.0,SHV-28
+Klebsiella pneumoniae plasmid pKPN3 SHV-27-like gene,99.9,861,0.0,SHV-28
+Klebsiella variicola SHV-27 beta-lactamase gene,98.5,861,1e-150,SHV-28
+Escherichia coli SHV-27 variant,97.2,861,1e-140,SHV-28
+Uncultured bacterium SHV family gene,95.1,858,1e-130,SHV-28

@@ -1,0 +1,13 @@
+# Core bioinformatics
+biopython
+
+# Data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Web requests (for BLAST)
+requests
